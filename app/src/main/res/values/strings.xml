@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="loan_info">Thông tin khoản vay</string>
+    <string name="loan_limit">Hạn mức</string>
+    <string name="loan_time">Thời hạn</string>
+    <string name="loan_interest_rate">Lãi suất</string>
+    <string name="click_here_to_register">Nhấn vào đây để đăng ký khoản vay</string>
+    <string name="register">Đăng ký</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="national_id_number">CMND</string>
+    <string name="address">Địa chỉ</string>
+    <string name="monthly_income">Thu nhập hàng tháng</string>
+    <string name="user_register">Gửi đăng ký vay”</string>
+</resources>
